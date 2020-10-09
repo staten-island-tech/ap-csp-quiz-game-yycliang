@@ -8,8 +8,20 @@ const qna = [
       c: "Kushari",
       d: "Sharkaseya",
     },
-    correct: "b",
+    correct: "Shawarma",
     name: "1",
+  },
+  {
+    question:
+      "In Iron Man 3 (2013), what Mark number does the Clean Slate Protocal destroy up to?",
+    choices: {
+      a: 42,
+      b: 33,
+      c: 45,
+      d: 38,
+    },
+    correct: 42,
+    name: "2",
   },
   {
     question:
@@ -20,8 +32,8 @@ const qna = [
       c: "Vision",
       d: "Scarlet Witch",
     },
-    correct: "c",
-    name: "2",
+    correct: "Vision",
+    name: "3",
   },
   {
     question:
@@ -32,8 +44,20 @@ const qna = [
       c: "Black Panther",
       d: "Hawkeye",
     },
-    correct: "d",
-    name: "3",
+    correct: "Hawkeye",
+    name: "4",
+  },
+  {
+    question:
+      "In Spider-Man: Homecoming (2017), what did the old Dominican lady that Peter Parker helped buy him?",
+    choices: {
+      a: "A Cheeseburger",
+      b: "A Slice of Pizza",
+      c: "A Churro",
+      d: "A Hot Dog",
+    },
+    correct: "A Churro",
+    name: "5",
   },
 ];
 
